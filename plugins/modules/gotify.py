@@ -13,7 +13,7 @@ ANSIBLE_METADATA = {'metadata_version': '1.1',
 
 DOCUMENTATION = '''
 ---
-version_added: "2.10"
+version_added: "1.0.0"
 module: gotify
 short_description: Send a message to Gotify
 description:

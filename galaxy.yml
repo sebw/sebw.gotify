@@ -9,7 +9,7 @@ namespace: sebw
 name: gotify
 
 # The version of the collection. Must be compatible with semantic versioning
-version: 1.0.0
+version: 1.0.1
 
 # The path to the Markdown (.md) readme file. This path is relative to the root of the collection
 readme: README.md
@@ -45,13 +45,13 @@ tags: ['notification']
 dependencies: {}
 
 # The URL of the originating SCM repository
-repository: http://example.com/repository
+repository: https://github.com/sebw/sebw.gotify/
 
 # The URL to any online docs
-documentation: http://docs.example.com
+documentation: https://gotify.net/docs/
 
 # The URL to the homepage of the collection/project
-homepage: http://example.com
+homepage: http://blog.wains.be
 
 # The URL to the collection issue tracker
-issues: http://example.com/issue/
+issues: https://github.com/sebw/sebw.gotify/issues
